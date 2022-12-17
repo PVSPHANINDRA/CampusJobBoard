@@ -4,7 +4,7 @@
 
 The high level architecture diagram is as shown below: 
 
-![image](https://user-images.githubusercontent.com/30817222/208217872-974f03bb-7b3e-43a7-9322-61d4cb1dcb1f.png)
+![image](https://user-images.githubusercontent.com/30817222/208218120-874c4bbd-ee12-4c74-a9e0-2010f7f38258.png)
 
 
 The Project contains 4 Backend microservices and a frontend service. 
