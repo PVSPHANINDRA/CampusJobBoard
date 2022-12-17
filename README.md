@@ -2,6 +2,9 @@
 ## Team: The Makers
 ## Team Members: Lokesh Tangella, Vauynandhan Reddy, Venkata Sai Phanindra Pamidimukkala
 
+Please clone this repository using *git clone --recurse-submodules https://github.com/yvnr/CampusJobBoard.git* command. This pulls all the submodules as well.
+
+
 The high level architecture diagram is as shown below: 
 
 ![image](https://user-images.githubusercontent.com/30817222/208218120-874c4bbd-ee12-4c74-a9e0-2010f7f38258.png)
