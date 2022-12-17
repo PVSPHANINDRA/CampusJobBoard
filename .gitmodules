@@ -1,0 +1,15 @@
+[submodule "tracker"]
+	path = tracker
+	url = https://github.com/yvnr/tracker.git
+[submodule "aggregator"]
+	path = aggregator
+	url = https://github.com/yvnr/aggregator.git
+[submodule "record"]
+	path = record
+	url = https://github.com/yvnr/record.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/yvnr/gateway.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/yvnr/dashboard.git
