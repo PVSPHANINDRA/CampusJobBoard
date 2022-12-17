@@ -16,8 +16,9 @@ This Repository contains 5 submodules one each for a microservice of this projec
 
 <ins>Each of the Microservice has its own run instructions, Please check the Readme.md file of each of the submodule and follow the instructions accordingly to run the corresponding microservice.</ins>
 
-The frontend application binds to the port dynamically whichever is free whereas the other Microservice (Record Service) is hosted in cloud(Please see the Readme for more information).
+The frontend application binds to the port dynamically whichever is free whereas the other Microservice need a specific port to run.
 Please make sure the below ports are free so that the entire application can run seamlessly.
 * 8080
 * 8081
 * 8000
+* 8060
