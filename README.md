@@ -1,6 +1,6 @@
 # CS520 Final Project : **Campus Job Board**
 ## Team: The Makers
-## Team Members: Lokesh Tangella, Vauynandhan Reddy Venkata Sai Phanindra Pamidimukkala
+## Team Members: Lokesh Tangella, Vauynandhan Reddy, Venkata Sai Phanindra Pamidimukkala
 
 The high level architecture diagram is as shown below: 
 
