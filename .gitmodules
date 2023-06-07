@@ -1,15 +1,15 @@
 [submodule "tracker"]
 	path = tracker
-	url = https://github.com/PVSPHANINDRA/CampusJobBoard_tracker
+	url = https://github.com/PVSPHANINDRA/CampusJobBoard_tracker.git
 [submodule "aggregator"]
 	path = aggregator
-	url = https://github.com/PVSPHANINDRA/CampusJobBoard_aggregator
+	url = https://github.com/PVSPHANINDRA/CampusJobBoard_aggregator.git
 [submodule "record"]
 	path = record
-	url = https://github.com/PVSPHANINDRA/CampusJobBoard_record
+	url = https://github.com/PVSPHANINDRA/CampusJobBoard_record.git
 [submodule "gateway"]
 	path = gateway
-	url = https://github.com/PVSPHANINDRA/CampusJobBoard_gateway
+	url = https://github.com/PVSPHANINDRA/CampusJobBoard_gateway.git
 [submodule "dashboard"]
 	path = dashboard
-	url = https://github.com/PVSPHANINDRA/CampusJobBoard_dashboard
+	url = https://github.com/PVSPHANINDRA/CampusJobBoard_dashboard.git
